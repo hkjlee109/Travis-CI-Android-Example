@@ -1,5 +1,5 @@
 language: android
-script: ./gradlew build assembleRelease
+script: ./gradlew build assembleDebug
 android:
   components:
     # Uncomment the lines below if you want to
